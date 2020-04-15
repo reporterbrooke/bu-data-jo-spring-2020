@@ -8,5 +8,3 @@ An intro to github for journalists
 ## Your edits are suggestions
 * In the preview, you will see changes color coded with green and red
 * Nothing is final until changes are committed
- test
- 
