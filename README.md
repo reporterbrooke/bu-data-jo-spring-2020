@@ -1,5 +1,5 @@
 # bu-data-jo-spring-2020
-An intro to github for journalists
+An intro to github for journalists is proceeding with challenge
 
 ## Markdown rules
 * Readme files look great in markdown!
