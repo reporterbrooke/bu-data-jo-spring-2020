@@ -8,3 +8,5 @@ An intro to github for journalists is proceeding with challenge
 ## Your edits are suggestions
 * In the preview, you will see changes color coded with green and red
 * Nothing is final until changes are committed
+
+Mita propose change practice
